@@ -1,0 +1,12 @@
+body{
+    background-color: #808080;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.cal{
+    
+    display: block;
+    margin: auto;
+    margin-bottom: 25px;
+}
